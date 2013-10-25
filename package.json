@@ -1,0 +1,17 @@
+{
+  "name": "cyber-duck-mozfest",
+  "description": "Controlling the physical world from a web application",
+  "version": "0.0.1",
+  "author": "Benjamin Maugain <benjamin@cyber-duck.co.uk>",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "request": "*",
+    "johnny-five": "*"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
