@@ -39,6 +39,7 @@ Clone this repository on your machine
 ``` bash
 npm install
 ```
+
 # 2) Time to play!
 
 ## Test 
