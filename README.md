@@ -36,7 +36,7 @@ Clone this repository on your machine
 ## Node.js packages
 - Open a terminal and go to the folder of the project
 - Run the following command to install dependencies: "request" and "johnny-five":
-``` bash
+``` 
 npm install
 ```
 
@@ -45,7 +45,7 @@ npm install
 ## Test 
 To test if Node.js, johhny-five and Arduino are working together, run the test app:
 
-``` bash
+``` 
 node testled.js
 ```
 ## The Morse app
@@ -58,7 +58,7 @@ node testled.js
 
 Run the following command:
 
-``` bash
+``` 
 node dashtag.js
 ```
 
